@@ -2,8 +2,9 @@
 
 A full-stack job portal where employers post openings and candidates discover and apply for roles — built with a React front end, an Express/MongoDB back end, and Firebase Authentication.
 
-**Live Site:** https://job-portal-three-blond.vercel.app/
-**API:** https://jobportal-67jv.onrender.com/
+**Live Site:** https://job-portal-three-blond.vercel.app
+
+**API:** https://jobportal-67jv.onrender.com
 
 ---
 
